@@ -29,4 +29,4 @@ Impact of Algorithmic Recommendation Systems on student productivity, stress, an
 
 ## Contact
 📧 rajatmishra1402@gmail.com
-🔗 linkedin.com/in/rajatmishra08
+🔗 https://www.linkedin.com/in/rajatmishra08
