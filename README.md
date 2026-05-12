@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rajat Mishra 👋
 
-<!--
-**rajatmishra8/rajatmishra8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science postgraduate with experience in Python, SQL, Power BI, Machine Learning, NLP, and Data Analysis.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python
+- SQL / Oracle SQL
+- Power BI
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- NLP
+- Flask
+- SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Focus-Flow
+AI-driven web application for student productivity analysis using Flask, NLP, sentiment analysis, and personalized recommendation logic.
+
+### Mobile Sales Analysis
+Interactive Power BI dashboard for analyzing sales trends, customer ratings, and brand performance.
+
+### Research Paper
+Impact of Algorithmic Recommendation Systems on student productivity, stress, and decision-making.
+
+## Contact
+📧 rajatmishra1402@gmail.com
+🔗 linkedin.com/in/rajatmishra08
