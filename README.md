@@ -1,4 +1,4 @@
-# Hi, I'm Rajat Mishra 👋
+# Hi, I'm Rajat Mishra 
 
 Data Science postgraduate with experience in Python, SQL, Power BI, Machine Learning, NLP, and Data Analysis.
 
@@ -28,5 +28,5 @@ Interactive Power BI dashboard for analyzing sales trends, customer ratings, and
 Impact of Algorithmic Recommendation Systems on student productivity, stress, and decision-making.
 
 ## Contact
-📧 rajatmishra1402@gmail.com
-🔗 https://www.linkedin.com/in/rajatmishra08
+ rajatmishra1402@gmail.com
+ https://www.linkedin.com/in/rajatmishra08
